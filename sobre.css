@@ -37,6 +37,11 @@ header div{
     margin-left: 20px;
     transition: .5s;
 }
+#title{
+    font-size: 45px;
+    font-weight: 900;
+    text-align: center;
+}
 #sobre{
     font-weight: 600;
     width: 100%;
@@ -46,7 +51,7 @@ header div{
     width: 100%;
 }
 #sobre{
-    margin-top: 150px;
+    margin-top: 50px;
     width: 100%;
     padding: 0 50px 0 50px;
 }
@@ -64,7 +69,7 @@ header div{
     width: 100%;
     padding: 0 50px 0 50px;
 }
-#title{
+#subtitulo{
     margin-top: 150px;
     width: 100%;
     padding: 0 50px 0 50px;
